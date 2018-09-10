@@ -1,4 +1,4 @@
-[{
+const securityListData = [{
   "name": "3M Company",
   "sector": "Industrials",
   "symbol": "MMM",
